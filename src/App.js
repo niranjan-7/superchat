@@ -20,6 +20,7 @@ import { useCollectionData } from 'react-firebase-hooks/firestore'
 
 const newvar = 0
 console.log(newvar)
+console.log(newvar)
 const auth = firebase.auth();
 const firestore = firebase.firestore();
 
